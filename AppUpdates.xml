@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <item>
-    <version>1.2.0</version>
-    <url>https://raw.githubusercontent.com/remapthailandteam/remove_nv/main/vnturbo_1.2.0.exe</url>
-    <changelog>อัปเดตใหม่ ปรับปรุงระบบ</changelog>
-    <mandatory>true</mandatory>
+    <version>1.2.1</version> <!-- ต้องมากกว่าเวอร์ชันปัจจุบัน -->
+    <url>https://github.com/remapthailandteam/remove_nv/releases/download/v1.2.1/vnturborevo.exe</url> 
+    <changelog>https://github.com/remapthailandteam/remove_nv/releases</changelog>
+    <mandatory>true</mandatory> <!-- ลองเปลี่ยนจาก false เป็น true -->
 </item>
