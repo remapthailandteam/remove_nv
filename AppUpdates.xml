@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <item>
     <version>1.2.1</version>
-    <url>https://www.dropbox.com/scl/fi/kko5fwdnkoxr0ea6se783/vnturbo_1.2.0.exe?rlkey=opvor0r6ythmrizw2j6oc889v&e=1&st=8h8l6ujd&dl=1</url>
+    <url>https://github.com/<your-repo>/releases/download/v1.2.1/vnturborevo1.2.1.zip
+</url>
     <changelog>https://github.com/remapthailandteam/remove_nv/releases</changelog>
     <mandatory>true</mandatory>
 </item>
