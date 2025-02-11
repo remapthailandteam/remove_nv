@@ -1,10 +1,7 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <item>
-    <version>1.2.2</version>
-    <url>https://www.dropbox.com/scl/fi/kko5fwdnkoxr0ea6se783/vnturbo_1.2.2.exe?rlkey=opvor0r6ythmrizw2j6oc889v&dl=1
-</url>
-    <changelog>
-        - เพิ่มฟีเจอร์ใหม่  
-        - แก้ไขบั๊กและปรับปรุงประสิทธิภาพ  
-    </changelog>
+    <version>1.2.0</version>
+    <url>https://raw.githubusercontent.com/remapthailandteam/remove_nv/main/vnturbo_1.2.0.exe</url>
+    <changelog>อัปเดตใหม่ ปรับปรุงระบบ</changelog>
+    <mandatory>true</mandatory>
 </item>
